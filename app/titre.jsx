@@ -9,7 +9,7 @@ export default function Titre() {
         height={150}
         className="animate-spin"
       />
-      <h1 className="text-5xl font-title">Lyana World</h1>
+      <h1 className="text-5xl font-title">Liyana World</h1>
       <Image
         src="/coeurgras.png"
         width={100}
